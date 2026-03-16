@@ -10,19 +10,19 @@ Alongside coursework, I actively work on projects that involve software engineer
 
 **Interests**
 
-🔭 Artificial Intelligence and Machine Learning
+- 🔭 Artificial Intelligence and Machine Learning
 I enjoy building intelligent systems that analyze data, generate insights, and support decision making.
 
-💻 Software Engineering
+- 💻 Software Engineering
 Designing scalable software systems and building full stack applications using modern frameworks and languages.
 
-🌐 Backend and Data Systems
+- 🌐 Backend and Data Systems
 Developing efficient data pipelines, APIs, and backend architectures that support high performance applications.
 
-📊 Data Science and Analytics
+- 📊 Data Science and Analytics
 Exploring datasets, applying statistical methods, and using machine learning to extract meaningful patterns.
 
-⚙ Engineering Systems and Computing
+- ⚙ Engineering Systems and Computing
 Combining software with engineering principles to solve complex technical challenges.
 
 **Connect With Me**
